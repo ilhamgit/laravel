@@ -1,0 +1,20 @@
+#full{
+    background-color: #284335;
+}
+#text{
+    font-family: serif;
+    font-style: italic;
+    color: white;
+}
+.link:hover{
+    background-color: black;
+    text-decoration: none;
+    padding: 1px;
+    opacity: 0.75;
+}
+
+.bg-stadium {
+    background: url(../storage/img/stadium-green.png);
+    background-size: cover;
+    background-attachment: fixed;
+}

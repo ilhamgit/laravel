@@ -1,0 +1,11 @@
+[28-Jul-2022 17:14:33 Asia/Kuala_Lumpur] PHP Notice:  Trying to access array offset on value of type null in /home2/thephoto/public_html/metahorse/core/api/user/register/index.php on line 17
+[28-Jul-2022 17:48:58 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home2/thephoto/public_html/metahorse/core/api/user/register/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home2/thephoto/public_html/metahorse/core/api/user/register/index.php on line 48
+[28-Jul-2022 17:49:34 Asia/Kuala_Lumpur] PHP Warning:  time() expects exactly 0 parameters, 1 given in /home2/thephoto/public_html/metahorse/core/api/user/register/index.php on line 50
+[28-Jul-2022 17:49:34 Asia/Kuala_Lumpur] PHP Warning:  time() expects exactly 0 parameters, 1 given in /home2/thephoto/public_html/metahorse/core/api/user/register/index.php on line 50
+[01-Aug-2022 20:21:15 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property 'signature' of non-object in /home2/thephoto/public_html/metahorse/core/api/user/register/index.php on line 33
+[01-Aug-2022 20:21:15 Asia/Kuala_Lumpur] PHP Notice:  Trying to access array offset on value of type null in /home2/thephoto/public_html/metahorse/core/api/user/register/index.php on line 62
+[01-Aug-2022 20:21:15 Asia/Kuala_Lumpur] PHP Notice:  Trying to access array offset on value of type null in /home2/thephoto/public_html/metahorse/core/api/user/register/index.php on line 62
+[01-Aug-2022 20:21:15 Asia/Kuala_Lumpur] PHP Notice:  Trying to access array offset on value of type null in /home2/thephoto/public_html/metahorse/core/api/user/register/index.php on line 62

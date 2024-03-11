@@ -1,0 +1,61 @@
+* {box-sizing: border-box}
+
+/* Set height of body and the document to 100% */
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+/* Style tab links */
+.tablink {
+  background-color: #284335;
+  color: white;
+  float: none;
+  border: 10px;
+  border-color: #E0CD9A;
+  outline: none;
+  cursor: pointer;
+  height:50%px;
+  font-size: 14px;
+  padding: 15px 20px;
+  border-radius: 5px;
+  border: 1px solid #E0CD9A;
+}
+
+.tablink:hover {
+  background-color: #777;
+}
+
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+  color: white;
+  display: none;
+  padding: 20px;
+  height: 100%;
+}
+
+#skin, #texture, #scalp, #leg, #hair, #tail {
+  background-color: #284335;
+  border: 1px solid #E0CD9A;
+  border-radius: 5px;
+}
+.skin-heading-title {
+  padding-top: 30px;;
+  color: #FFFFFF !important;
+  font-family: "Playfair Display", Sans-serif;
+  font-weight: 600;
+}
+
+#box4{
+  background-color: #198754;
+}
+.activeTab {
+  border-style: solid;
+ border-color: #E0CD9A;
+ border-width: 5px 1px 1px 1px;
+ color: #E0CD9A;
+}
+
+.w-30 {
+    width: 30%;
+}

@@ -1,0 +1,15 @@
+*{box-sizing: border-box}
+
+body,html{
+    height: 100%;
+    margin: 0;
+    
+}
+.container-fluid{
+background-color: #284335;
+}
+
+.title{
+    color:#E0CD9A;
+    font-weight: 600;
+}
