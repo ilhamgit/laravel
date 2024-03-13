@@ -1,1 +1,0 @@
-<?php $timezone = 'Asia/Kuala_Lumpur' ?>
